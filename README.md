@@ -1,5 +1,5 @@
 # exerc_funcoes
-Exercícios de Lógica com Python
+Exercícios de Lógica com Python usando Funções
 
 Exercícios Funções
 
